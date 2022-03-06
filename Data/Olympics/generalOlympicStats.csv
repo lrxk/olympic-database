@@ -1,0 +1,30 @@
+host_city,year,host_country,Number of athletes,Number of country participating,Number of events
+Tokyo,2020,Japan,11315,206,339
+Rio,2016,Brazil,11238,207,306
+London,2012,Great Britain,10568,204,302
+Beijing,2008,China,10942,204,302
+Athens,2004,Greece,10625,201,301
+Sydney,2000,Australia,10651,199,300
+Atlanta,1996,United States,10318,197,271
+Barcelona,1992,Spain,9356,169,257
+Seoul,1988,Republic of Korea,8397,159,237
+Los Angeles,1984,United States,6829,140,221
+Moscow,1980,USSR,5179,80,203
+Montreal,1976,Canada,6084,92,198
+Munich,1972,Federal Republic of Germany,7134,121,195
+Mexico City,1968,Mexico,5516,112,172
+Tokyo,1964,Japan,5151,93,163
+Rome,1960,Italy,5338,83,150
+Melbourne,1956,Australia/Sweden,3314,72,151
+Helsinki,1952,Finland,4955,69,149
+London,1948,Great Britain,4104,59,136
+Berlin,1936,Germany,3963,49,129
+Los Angeles,1932,United States,1334,37,117
+Amsterdam,1928,Netherlands,2883,46,109
+Paris,1924,France,3088,44,126
+Antwerp,1920,Belgium,2622,29,156
+Stockholm,1912,Sweden,2407,28,102
+London,1908,Great Britain,2008,22,110
+St. Louis,1904,United States,651,12,95
+Paris,1900,France,1226,26,96
+Athens,1896,Greece,241,14,43
