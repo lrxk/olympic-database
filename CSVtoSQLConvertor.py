@@ -3,7 +3,7 @@ import sqlite3
 import os
 from sqlalchemy import create_engine
 
-engine = create_engine('sqlite://', echo=False)
+engine = create_engine('sqlite:///olympic.db', echo=False)
 winter_files=os.listdir("Data/Winter")
 summer_files=os.listdir("Data/Summer")
 winter_dfs=[]
@@ -26,4 +26,7 @@ for i in range(len(summer_dfs)):
     table_name=summer_files[i].replace("-","")
     table_name=table_name.replace(".csv","")
     summer_dfs[i].to_sql(table_name,con=engine,index_label="leaderboard_id",if_exists="append")
+df=pd.read_csv('olympic_stats.csv')
+df.to_sql("olympic_stats",con=engine,index_label="olympic_id",if_exists="append")
 # print(engine.execute("SELECT * FROM turin2006").fetchall())
+print(engine.execute("SELECT * FROM olympic_stats").fetchall())
