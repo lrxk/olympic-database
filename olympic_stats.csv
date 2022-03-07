@@ -1,53 +1,53 @@
 host_city,year,host_country,number_of_athletes,number_of_countries,number_of_events
-Tokyo,2020,Netherlands,2883,46,109
-PyeongChang,2018,Belgium,2622,29,156
-Rio,2016,Greece,241,14,43
-Sochi,2014,Greece,10625,201,301
-London,2012,United States,10318,197,271
-Vancouver,2010,Spain,9356,169,257
+Tokyo,2020,Japan,11417,206,339
+PyeongChang,2018,Republic of Korea,2833,92,102
+Rio,2016,Brazil,11238,207,306
+Sochi,2014,Russian Federation,2780,88,98
+London,2012,Great Britain,10568,204,302
+Vancouver,2010,Canada,2566,82,86
 Beijing,2008,China,10942,204,302
-Turin,2006,Germany,3963,49,129
-Athens,2004,Finland,4955,69,149
-Salt Lake City,2002,Great Britain,2008,22,110
-Sydney,2000,Great Britain,4104,59,136
-Nagano,1998,Great Britain,10568,204,302
-Atlanta,1996,United States,1334,37,117
-Lillehammer,1994,United States,6829,140,221
-Barcelona,1992,"Australia, Sweden",3314,72,151
-Albertville,1992,Mexico,5516,112,172
-Seoul,1988,Canada,6084,92,198
-Calgary,1988,USSR,5179,80,203
-Los Angeles,1984,Federal Republic of Germany,7134,121,195
-Sarajevo,1984,France,1226,26,96
-Moscow,1980,France,3088,44,126
-Lake Placid,1980,Brazil,11238,207,306
-Montreal,1976,Italy,5338,83,150
-Innsbruck,1976,Republic of Korea,8397,159,237
-Munich,1972,United States,651,12,95
-Sapporo,1972,Sweden,2407,28,102
-Mexico City,1968,Australia,10651,199,300
-Grenoble,1968,Japan,5151,93,163
-Tokyo,1964,Japan,11417,206,339
-Innsbruck,1964,France,1801,64,57
-Rome,1960,Canada,1423,57,46
-Squaw Valley,1960,France,260,16,16
-Melbourne,1956,Italy,821,32,24
-Cortina d'Ampezzo,1956,Germany,646,28,17
-Helsinki,1952,France,1158,37,35
-Oslo,1952,Austria,1091,36,34
-London,1948,Austria,1123,37,37
-St. Moritz,1948,United States,252,17,14
-Berlin,1936,United States,1072,37,38
-Garmisch-Partenkirchen,1936,Norway,1737,67,61
-Los Angeles,1932,Japan,2176,72,68
-Lake Placid,1932,Norway,694,30,22
-Amsterdam,1928,Republic of Korea,2833,92,102
-St. Moritz,1928,United States,2399,77,78
-Paris,1924,Japan,1006,35,35
-Chamonix,1924,Yugoslavia,1272,49,39
-Antwerp,1920,Russian Federation,2780,88,98
-Stockholm,1912,United States,665,30,27
-London,1908,Switzerland,464,25,14
-St. Louis,1904,Switzerland,669,28,22
-Paris,1900,Italy,2508,80,84
-Athens,1896,Canada,2566,82,86
+Turin,2006,Italy,2508,80,84
+Athens,2004,Greece,10625,201,301
+Salt Lake City,2002,United States,2399,77,78
+Sydney,2000,Australia,10651,199,300
+Nagano,1998,Japan,2176,72,68
+Atlanta,1996,United States,10318,197,271
+Lillehammer,1994,Norway,1737,67,61
+Barcelona,1992,Spain,9356,169,257
+Albertville,1992,France,1801,64,57
+Seoul,1988,Republic of Korea,8397,159,237
+Calgary,1988,Canada,1423,57,46
+Los Angeles,1984,United States,6829,140,221
+Sarajevo,1984,Yugoslavia,1272,49,39
+Moscow,1980,USSR,5179,80,203
+Lake Placid,1980,United States,1072,37,38
+Montreal,1976,Canada,6084,92,198
+Innsbruck,1976,Austria,1123,37,37
+Munich,1972,Federal Republic of Germany,7134,121,195
+Sapporo,1972,Japan,1006,35,35
+Mexico City,1968,Mexico,5516,112,172
+Grenoble,1968,France,1158,37,35
+Tokyo,1964,Japan,5151,93,163
+Innsbruck,1964,Austria,1091,36,34
+Rome,1960,Italy,5338,83,150
+Squaw Valley,1960,United States,665,30,27
+Melbourne,1956,"Australia, Sweden",3314,72,151
+Cortina d'Ampezzo,1956,Italy,821,32,24
+Helsinki,1952,Finland,4955,69,149
+Oslo,1952,Norway,694,30,22
+London,1948,Great Britain,4104,59,136
+St. Moritz,1948,Switzerland,669,28,22
+Berlin,1936,Germany,3963,49,129
+Garmisch-Partenkirchen,1936,Germany,646,28,17
+Los Angeles,1932,United States,1334,37,117
+Lake Placid,1932,United States,252,17,14
+Amsterdam,1928,Netherlands,2883,46,109
+St. Moritz,1928,Switzerland,464,25,14
+Paris,1924,France,3088,44,126
+Chamonix,1924,France,260,16,16
+Antwerp,1920,Belgium,2622,29,156
+Stockholm,1912,Sweden,2407,28,102
+London,1908,Great Britain,2008,22,110
+St. Louis,1904,United States,651,12,95
+Paris,1900,France,1226,26,96
+Athens,1896,Greece,241,14,43
